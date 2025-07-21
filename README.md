@@ -14,7 +14,7 @@ The core idea is to have a central "smart brain" (an LLM) that can understand co
 * **Langchain-MCP-Adapters**: Facilitates communication between Langchain agents and Micro-service Communication Protocol (MCP) servers.
 * **MCP (Micro-service Communication Protocol)**: A protocol for defining and interacting with microservices.
 * **Langchain-Groq**: Integration with Groq's high-performance inference engine for LLMs (specifically `gemma2-9b-it`).
-* **Python 3.13**: The primary programming language.
+* **Python 3.13**: The primary programming language
 
 ## Project Structure
 
